@@ -43,7 +43,7 @@ body {
   
   .clock .text {
     height: 30px;
-    font-size: 1px;
+    font-size: 10px;
     text-transform: uppercase;
     letter-spacing: 2px;
     background: #270025e9;
