@@ -31,7 +31,7 @@ body {
   .clock span {
     width: 100px;
     height: 80px;
-    background: #27002549;/* #ada397; /* #801515; */
+    background: #27002549;
     opacity: 0.8;
     color: white;
     display: flex;
